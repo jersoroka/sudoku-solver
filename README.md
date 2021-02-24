@@ -18,10 +18,10 @@ The program will produce a solved board if it's solvable. It will also alert the
 ## Demo
 
 Solving a puzzle:
-![Solving a puzzle](/demo/solved_puzzle.gif)
+<img src="demo/solved_puzzle.gif" width="300" height="300">
 
 Detecting invalid input:
-![Detecting an invalid input](/demo/invalid_input.gif)
+<img src="demo/invalid_input.gif" width="300" height="300">
 
 Detecting an unsolvable puzzle:
-![An unsolvable puzzle](/demo/unsolvable.gif)
+<img src="demo/unsolvable.gif" width="300" height="300">
