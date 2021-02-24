@@ -19,12 +19,12 @@ The program will produce a solved board if it's solvable. It will also alert the
 
 Solving a puzzle:
 <br>
-<img src="demo/solved_puzzle.gif" width="300" height="300">
+<img src="demo/solved_puzzle.gif" width="400" height="400">
 
 Detecting invalid input:
 <br>
-<img src="demo/invalid_input.gif" width="300" height="300">
+<img src="demo/invalid_input.gif" width="400" height="400">
 
 Detecting an unsolvable puzzle:
 <br>
-<img src="demo/unsolvable.gif" width="300" height="300">
+<img src="demo/unsolvable.gif" width="400" height="400">
