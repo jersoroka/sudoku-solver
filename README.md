@@ -17,16 +17,11 @@ The program will produce a solved board if it's solvable. It will also alert the
 
 ## Demo
 
-<p>
-    <img src="demo/invalid_input.gif" width="200", height="200"/>
-</p>
-
-
+Solving a puzzle:
 ![Solving a puzzle](/demo/solved_puzzle.gif)
 
-
-
+Detecting invalid input:
 ![Detecting an invalid input](/demo/invalid_input.gif)
 
-
+Detecting an unsolvable puzzle:
 ![An unsolvable puzzle](/demo/unsolvable.gif)
